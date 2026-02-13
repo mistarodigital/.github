@@ -15,7 +15,7 @@
   <text x="20" y="40">$ whois mistarodigital</text>
 
   <!-- output -->
-  <text x="20" y="70" class="dim">name:        Mistaro Digital.</text>
+  <text x="20" y="92" class="dim">name:        Mistaro Digital</text>
   <text x="20" y="114" class="dim">focus:       End-to-end systems</text>
   <text x="20" y="136" class="dim">tools:       Laravel backends and modern frontends</text>
   <text x="20" y="158" class="dim">workflow:    AI-amplified execution</text>
