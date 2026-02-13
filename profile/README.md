@@ -1,1 +1,1 @@
-![header](./terminal.svg)
+![header](../terminal.svg)
